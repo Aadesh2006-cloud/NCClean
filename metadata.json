@@ -1,0 +1,6 @@
+{
+  "name": "NC Cleanup - Tailored Residential Cleaning",
+  "description": "Founded by Natalia Cassimiro. Personalized, high-standard residential cleaning across Peel, Halton, York, and Durham. Fully insured, reliable, and tailored to your home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
